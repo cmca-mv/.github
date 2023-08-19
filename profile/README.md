@@ -23,10 +23,11 @@
         Our Association is a platform for the youth of Maldives to foster global awareness,
         creating opportunities for international collaboration, and develop skill sets that bridge and
         celebrates relationships between the peoples of Maldives and China through arts and culture.
-        Our aim is to promote multiculturism. We avail opportunities to the youth of Maldives to have firsthand experience of the ancient culture and heritage of China.
+        Our aim is to promote multiculturism. We avail opportunities to the youth of Maldives to have
+        firsthand experience of the ancient culture and heritage of China.
         The founding of China-Maldivian Cultural Association is a lifelong dream of myself as a student at
         National Taiwan University during 1970s.
-        MSG>
+        MSG;
     }
     public function getMission(): string
     {
@@ -59,7 +60,7 @@
         We believe that an exchange through arts and culture provides unique opportunities for youth to develop
         understanding and appreciation for the peoples and histories of China as well as the Maldives. This in
         return will strengthen our countries' friendship for the years to come.
-        STORY>
+        STORY;
     }
  }
 
