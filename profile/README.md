@@ -1,4 +1,4 @@
-![Github Banner](banner.jpg)
+![Github Banner](profile/banner.jpg)
 
 ## Who are we?
 
